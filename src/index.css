@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    overflow: hidden;
+}
+#sidenav{
+    bottom: 10em;
+}
+#navfilter{
+    bottom: 2em;
+}
+#Content{
+    bottom: 20.2cm;
+}
+#checkbox{
+    border-radius: 20px;
+}
